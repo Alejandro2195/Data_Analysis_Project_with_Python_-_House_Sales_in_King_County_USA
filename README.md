@@ -1,1 +1,3 @@
 # Data Analysis Project with Python - House Sales in King County, USA
+
+In this assignment, the role of a Data Analyst at a Real Estate Investment Trust (REIT) is assumed. The REIT aims to enter the residential real estate market and seeks insights into determining house market prices based on various features. The primary task is to analyze and predict housing prices using attributes like square footage, number of bedrooms, number of floors, and more. The assignment comprises ten questions to answer using a provided template notebook. Hints for solving the questions are available within the template notebook.
